@@ -15,3 +15,4 @@ Here are the basics:
 
 👉 **Have a question?** Click the `?` at the bottom right for more guides, or to send us a message.
 
+![](2023-09-26-02-14-45.png)
